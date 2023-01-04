@@ -1,0 +1,40 @@
+D:\c#\Day11 window form\mytry WFA\mytry WFA\bin\Debug\net6.0-windows\mytry WFA.exe
+D:\c#\Day11 window form\mytry WFA\mytry WFA\bin\Debug\net6.0-windows\mytry WFA.deps.json
+D:\c#\Day11 window form\mytry WFA\mytry WFA\bin\Debug\net6.0-windows\mytry WFA.runtimeconfig.json
+D:\c#\Day11 window form\mytry WFA\mytry WFA\bin\Debug\net6.0-windows\mytry WFA.dll
+D:\c#\Day11 window form\mytry WFA\mytry WFA\bin\Debug\net6.0-windows\mytry WFA.pdb
+D:\c#\Day11 window form\mytry WFA\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.csproj.AssemblyReference.cache
+D:\c#\Day11 window form\mytry WFA\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.csproj.GenerateResource.cache
+D:\c#\Day11 window form\mytry WFA\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Day11 window form\mytry WFA\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.AssemblyInfoInputs.cache
+D:\c#\Day11 window form\mytry WFA\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.AssemblyInfo.cs
+D:\c#\Day11 window form\mytry WFA\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.csproj.CoreCompileInputs.cache
+D:\c#\Day11 window form\mytry WFA\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.dll
+D:\c#\Day11 window form\mytry WFA\mytry WFA\obj\Debug\net6.0-windows\refint\mytry WFA.dll
+D:\c#\Day11 window form\mytry WFA\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.pdb
+D:\c#\Day11 window form\mytry WFA\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.genruntimeconfig.cache
+D:\c#\Day11 window form\mytry WFA\mytry WFA\obj\Debug\net6.0-windows\ref\mytry WFA.dll
+D:\c#\Day11 window form\mytry WFA\mytry WFA\obj\Debug\net6.0-windows\mytry_WFA.Properties.Resources.resources
+D:\c#\Day11 window form\mytry WFA\mytry WFA\obj\Debug\net6.0-windows\mytry_WFA.form_login.resources
+D:\c#\Day11 window form\mytry WFA\mytry WFA\obj\Debug\net6.0-windows\mytry_WFA.frm_about.resources
+D:\c#\Day11 window form\mytry WFA\mytry WFA\obj\Debug\net6.0-windows\mytry_WFA.frm_signin.resources
+D:\c#\Day11 window form\login form\mytry WFA\bin\Debug\net6.0-windows\mytry WFA.exe
+D:\c#\Day11 window form\login form\mytry WFA\bin\Debug\net6.0-windows\mytry WFA.deps.json
+D:\c#\Day11 window form\login form\mytry WFA\bin\Debug\net6.0-windows\mytry WFA.runtimeconfig.json
+D:\c#\Day11 window form\login form\mytry WFA\bin\Debug\net6.0-windows\mytry WFA.dll
+D:\c#\Day11 window form\login form\mytry WFA\bin\Debug\net6.0-windows\mytry WFA.pdb
+D:\c#\Day11 window form\login form\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.csproj.AssemblyReference.cache
+D:\c#\Day11 window form\login form\mytry WFA\obj\Debug\net6.0-windows\mytry_WFA.form_login.resources
+D:\c#\Day11 window form\login form\mytry WFA\obj\Debug\net6.0-windows\mytry_WFA.frm_about.resources
+D:\c#\Day11 window form\login form\mytry WFA\obj\Debug\net6.0-windows\mytry_WFA.frm_signin.resources
+D:\c#\Day11 window form\login form\mytry WFA\obj\Debug\net6.0-windows\mytry_WFA.Properties.Resources.resources
+D:\c#\Day11 window form\login form\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.csproj.GenerateResource.cache
+D:\c#\Day11 window form\login form\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Day11 window form\login form\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.AssemblyInfoInputs.cache
+D:\c#\Day11 window form\login form\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.AssemblyInfo.cs
+D:\c#\Day11 window form\login form\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.csproj.CoreCompileInputs.cache
+D:\c#\Day11 window form\login form\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.dll
+D:\c#\Day11 window form\login form\mytry WFA\obj\Debug\net6.0-windows\refint\mytry WFA.dll
+D:\c#\Day11 window form\login form\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.pdb
+D:\c#\Day11 window form\login form\mytry WFA\obj\Debug\net6.0-windows\mytry WFA.genruntimeconfig.cache
+D:\c#\Day11 window form\login form\mytry WFA\obj\Debug\net6.0-windows\ref\mytry WFA.dll
